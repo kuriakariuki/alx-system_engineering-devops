@@ -8,5 +8,6 @@ mkdir -p Create a script that creates a directory named myfirstdirectory in the 
 mv a file or directory
 rm delete a file
 rm -r delete a directory
+cd .. return to a previous directory
 
 
