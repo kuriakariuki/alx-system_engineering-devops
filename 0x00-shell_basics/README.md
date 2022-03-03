@@ -5,5 +5,6 @@ ls -l long list
 ls -la  hidden files
 ls -lan ong format with user and group IDs displayed numerically And hidden files (starting with.)
 mkdir -p Create a script that creates a directory named myfirstdirectory in the /tmp/ directory.
+mv a file or directory
 
 
