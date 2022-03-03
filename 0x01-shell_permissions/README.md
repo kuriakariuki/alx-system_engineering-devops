@@ -16,3 +16,8 @@ chmod a+X * adds execute permission to all subdirectories of the current directo
 mkdir -m 751 Create a script that creates a directory called mydir with permissions 751 in the working directory.
 chgrp school hello Write a script that changes the group owner to school for the file hello
 chown vincent:staff * Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+chown -h vincent:staff _hello Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
+
+    The file _hello is in the working directory
+    The file _hello is a symbolic link
+
