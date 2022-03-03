@@ -10,5 +10,6 @@ rm delete a file
 rm -r delete a directory
 cd .. return to a previous directory
 ls -la list all files
+file check file type
 
 
