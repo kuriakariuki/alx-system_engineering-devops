@@ -7,5 +7,6 @@ ls -lan ong format with user and group IDs displayed numerically And hidden file
 mkdir -p Create a script that creates a directory named myfirstdirectory in the /tmp/ directory.
 mv a file or directory
 rm delete a file
+rm -r delete a directory
 
 
