@@ -11,5 +11,6 @@ rm -r delete a directory
 cd .. return to a previous directory
 ls -la list all files
 file check file type
+ln -s /bin/ls __ls__ create a symbolic link
 
 
