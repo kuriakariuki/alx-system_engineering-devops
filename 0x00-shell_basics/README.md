@@ -13,5 +13,5 @@ ls -la list all files
 file check file type
 ln -s /bin/ls __ls__ create a symbolic link
 cp -nu *.html .. from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
-
+File 100-lets move: move all files starting with uppercase 
 
