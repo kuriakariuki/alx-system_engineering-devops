@@ -17,3 +17,4 @@ File 15-countthatword display the number of lines that contain the pattern “bi
 File 16-whatsnext display lines containing the pattern “root” and 3 lines after them in a file.
 File 17-hidethisword display file that dont't have bin.
 File 18-letteronly displays letters only.
+File 19-AZ replace characters.
