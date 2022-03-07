@@ -14,3 +14,4 @@ File 12-newest_files display 10 newest files.
 File 13-unique removes duplicate.
 File 14-findthatword display lines containing the pattern.
 File 15-countthatword display the number of lines that contain the pattern “bin”in a file.
+File 16-whatsnext display lines containing the pattern “root” and 3 lines after them in a file.
