@@ -6,3 +6,4 @@ File 4-lastlines display the last 10 lines.
 File 5-firstlines display the first 10 lines.
 File 6-third_line display the third line.
 File 7-file creates a file.
+File 8-cwd_state writes into a file.
