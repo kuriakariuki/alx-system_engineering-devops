@@ -19,3 +19,4 @@ File 17-hidethisword display file that dont't have bin.
 File 18-letteronly displays letters only.
 File 19-AZ replace characters.
 File 20-hiago removes all letters c and C.
+File 21-reverse,reverse input.
