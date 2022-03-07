@@ -12,3 +12,4 @@ File 10-no_more_js delete all file with the extention .js.
 File 11-directories  counts the number of directories and sub-directories in the current directory.
 File 12-newest_files display 10 newest files.
 File 13-unique removes duplicate.
+File 14-findthatword display lines containing the pattern.
