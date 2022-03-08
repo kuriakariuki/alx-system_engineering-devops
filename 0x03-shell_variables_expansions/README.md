@@ -11,3 +11,4 @@ File 9-divide_and_rule divide numbers stored in an environment variables.
 File 10-love_exponent_breath print the results of one variable to the power of another variable.
 File 11-binary_to_decimal converts a number from base 2 to base 10.
 File 12-combinations prints all possible combinations of two letters, except oo.
+File 13-print_float prints a number with two decimal places.
