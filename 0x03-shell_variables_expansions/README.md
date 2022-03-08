@@ -8,3 +8,4 @@ File 6-create_local_variable creates a local variable.
 File 7-create_global_variable
 File 8-true_knowledge adds a number and a value stored in an environment variable.
 File 9-divide_and_rule divide numbers stored in an environment variables.
+File 10-love_exponent_breath print the results of one variable to the power of another variable.
