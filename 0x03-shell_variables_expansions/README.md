@@ -9,3 +9,4 @@ File 7-create_global_variable
 File 8-true_knowledge adds a number and a value stored in an environment variable.
 File 9-divide_and_rule divide numbers stored in an environment variables.
 File 10-love_exponent_breath print the results of one variable to the power of another variable.
+File 11-binary_to_decimal converts a number from base 2 to base 10.
