@@ -7,3 +7,4 @@ File 5-local_variables, ists all local variables and environment variables, and 
 File 6-create_local_variable creates a local variable.
 File 7-create_global_variable
 File 8-true_knowledge adds a number and a value stored in an environment variable.
+File 9-divide_and_rule divide numbers stored in an environment variables.
