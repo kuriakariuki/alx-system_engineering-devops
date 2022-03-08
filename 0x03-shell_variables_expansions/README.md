@@ -5,3 +5,4 @@ File 3-path counts number of directories.
 File 4-global_variables,lists environment variables.
 File 5-local_variables, ists all local variables and environment variables, and functions.
 File 6-create_local_variable creates a local variable.
+File 7-create_global_variable
